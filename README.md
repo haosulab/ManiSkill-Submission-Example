@@ -14,10 +14,10 @@ your own python module, you need to put it the same level as `environment.yml`.
 Participants are free to include other files in your submission, e.g., the
 checkpoint of your model.
 
-**Note: please do not include `.git` in your submission, since it can be very large.**
+**Note: please do not include `.git` and PartNet-Mobility dataset in your submission, since they can be very large.**
 
 ### Environment
-We recommend you to export your conda environment by running this command.
+You are required to export your conda environment by running this command.
 ```
 conda env export --name ENVNAME > environment.yml
 ```
