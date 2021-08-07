@@ -49,7 +49,7 @@ Solutions need to be submitted to the challenge website
 
 First make sure you are logged into our authenticator by click on the login
 button at the top right corner. You will be asked to sign into the SULab
-authenticator. You need your email account (.edu preferred) to complete the sign
+authenticator. You need your email account (provided in the google form) to complete the sign
 in process. If your email is not accepted, please contact us.
 
 Now you should be able to authorize the challenge site to use your SULab
