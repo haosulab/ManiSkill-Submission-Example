@@ -44,8 +44,10 @@ you can follow the steps described [here](https://github.com/haosulab/ManiSkill#
 to evaluate your submission locally for one episode.
 
 ## How to submit
-Solutions need to be submitted to the challenge website
-[https://sapien.ucsd.edu/challenges/maniskill2021/](https://sapien.ucsd.edu/challenges/maniskill2021/).
+~~Solutions need to be submitted to the challenge website
+[https://sapien.ucsd.edu/challenges/maniskill2021/](https://sapien.ucsd.edu/challenges/maniskill2021/).~~
+
+The ManiSkill 2021 Challenge has ended. If you still want to evaluate on the test set, please submit to [the temporary evaluation webiste](https://sapien.ucsd.edu/challenges/maniskill2021test/).
 
 First make sure you are logged into our authenticator by click on the login
 button at the top right corner. You will be asked to sign into the SULab
